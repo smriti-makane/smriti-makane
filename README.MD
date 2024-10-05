@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smriti Singh</h1>
 <h3 align="center">A passionate Indiviual!</h3>
 
-<img align="right" alt="coding" widht="50" src="https://i.pinimg.com/564x/aa/45/ab/aa45ab42358d9696fe18bcb0d65aa911.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smriti-makane&label=Profile%20views&color=0e75b6&style=flat" alt="smriti-makane" /> </p>
 
 - 📫 Reach me out **smritisingh11a@gmail.com**
