@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smriti Singh</h1>
 <h3 align="center">A passionate Indiviual!</h3>
 
-<img align="right" alt="coding" widht="100" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="coding" widht="100" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/306116700/original/a5484bfc626b788fd0588986c6bb9118c395389c/do-animation-gif-for-social-media-and-ads.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smriti-makane&label=Profile%20views&color=0e75b6&style=flat" alt="smriti-makane" /> </p>
 
