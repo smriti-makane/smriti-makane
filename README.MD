@@ -10,7 +10,7 @@
 
 - 🤝 I Worked on the project **Unique Mind Connects**
 
-- 🤝 I Worked on the project ****Cybersecurity Threat Analyzer
+- 🤝 I Worked on the project **Cybersecurity Threat Analyzer**
 
 - 📫 How to reach me **smritisingh11a@gmail.com**
 
