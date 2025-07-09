@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **DSA with Java**
 
-- 🤝 I Worked on the project **Unique Mind Connects**
+- 🤝 I Worked on the project **Unique Mind Connects**  
 
 - 🤝 I Worked on the project **Cybersecurity Threat Analyzer**
+
+- 🤝 I Worked on the project **Smart Vehicle Detection & Parking Allocation System**
 
 - 📫 How to reach me **smritisingh11a@gmail.com**
 
