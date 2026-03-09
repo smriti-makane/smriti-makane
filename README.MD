@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smriti-makane&label=Profile%20views&color=0e75b6&style=flat" alt="smriti-makane" /> </p>
 
-- 🌱 I’m currently learning **DSA with Java**
-
 - 🤝 I Worked on the project **Unique Mind Connects**  
 
 - 🤝 I Worked on the project **Cybersecurity Threat Analyzer**
