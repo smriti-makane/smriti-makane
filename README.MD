@@ -194,22 +194,16 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 <br><br>
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smritisingh11a@gmail.com)
-&nbsp; smritisingh11a@gmail.com
+&nbsp; smritisingh2003a@gmail.com
 
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smriti-makane)
 &nbsp; github.com/smriti-makane
 
-<br><br>
-
-📍 &nbsp; **Location:** India
-
-<br>
-
 </td>
 
-<td width="50%" align="center">
+<td width="30%" align="center">
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%"/>
 
