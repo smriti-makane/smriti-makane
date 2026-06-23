@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smriti Singh</h1>
+<h1 align="center"> Hey!👋, I'm Smriti Singh</h1>
 
 <h3 align="center">
 AI Engineer | Software Developer | Computer Vision Enthusiast
