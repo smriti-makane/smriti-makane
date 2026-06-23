@@ -63,90 +63,76 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 ---
 # 🚀 Tech Stack
 
-<table align="center">
+<table width="100%">
 <tr>
 
-<td align="center" valign="top" width="180">
+<td align="center" width="20%">
 
 💻
 
-<br><br>
+<br>
 
 <b>Languages</b>
 
-<br><br>
+<br>
 
-Python<br>
-Java<br>
-JavaScript<br>
-SQL
+Python • Java • JavaScript • SQL
 
 </td>
 
-<td align="center" valign="top" width="180">
+<td align="center" width="20%">
 
 🤖
 
-<br><br>
+<br>
 
 <b>AI & ML</b>
 
-<br><br>
+<br>
 
-TensorFlow<br>
-OpenCV<br>
-YOLOv8<br>
-DeepFace
+TensorFlow • OpenCV • YOLOv8 • DeepFace
 
 </td>
 
-<td align="center" valign="top" width="180">
+<td align="center" width="20%">
 
 ✨
 
-<br><br>
+<br>
 
 <b>GenAI</b>
 
-<br><br>
+<br>
 
-LangChain<br>
-ChromaDB<br>
-Ollama<br>
-Sentence Transformers
+LangChain • ChromaDB • Ollama • Sentence Transformers
 
 </td>
 
-<td align="center" valign="top" width="180">
+<td align="center" width="20%">
 
 ⚙️
 
-<br><br>
+<br>
 
 <b>Backend</b>
 
-<br><br>
+<br>
 
-FastAPI<br>
-Flask<br>
-REST APIs
+FastAPI • Flask • REST APIs
 
 </td>
 
-<td align="center" valign="top" width="180">
+<td align="center" width="20%">
 
 🎨
 
-<br><br>
+<br>
 
 <b>Frontend</b>
 
-<br><br>
+<br>
 
-React<br>
-Vite<br>
-HTML<br>
-CSS
+React • Vite • HTML • CSS
 
 </td>
 
@@ -164,8 +150,6 @@ CSS
 
 Smart parking allocation system using YOLOv8, OpenCV, Flask, SQL and React.
 
-<br><br><br>
-
 <a href="https://github.com/smriti-makane/ParkingAllocation">
 🔗 View Repository
 </a>
@@ -178,7 +162,6 @@ Smart parking allocation system using YOLOv8, OpenCV, Flask, SQL and React.
 
 Document ingestion, chunking, embeddings, vector search and LLM-powered responses.
 
-<br><br>
 
 🚧 Work In Progress
 
@@ -190,7 +173,6 @@ Document ingestion, chunking, embeddings, vector search and LLM-powered response
 
 AI-powered learning platform designed for neurodiverse students using AI and Computer Vision.
 
-<br>
 
 <a href="https://github.com/smriti-makane">
 🔗 View Repository
@@ -204,7 +186,6 @@ AI-powered learning platform designed for neurodiverse students using AI and Com
 
 Cybersecurity monitoring and anomaly detection system for threat detection and analysis.
 
-<br>
 
 <a href="https://github.com/smriti-makane">
 🔗 View Repository
@@ -279,7 +260,7 @@ Cybersecurity monitoring and anomaly detection system for threat detection and a
 <table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="30%" valign="top">
 
 ### 🔗 LinkedIn
 
@@ -303,11 +284,9 @@ github.com/smriti-makane
 
 <br><br>
 
-
-
 </td>
 
-<td width="55%">
+<td width="45%">
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
 
