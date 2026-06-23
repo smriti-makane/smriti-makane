@@ -61,15 +61,16 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 </table>
 
 ---
-
 # 🚀 Tech Stack
 
-<table width="100%">
+<table align="center">
 <tr>
 
-<td align="center" width="20%" valign="top">
+<td align="center" valign="top" width="180">
 
-<h2>💻</h2>
+💻
+
+<br><br>
 
 <b>Languages</b>
 
@@ -82,9 +83,11 @@ SQL
 
 </td>
 
-<td align="center" width="20%" valign="top">
+<td align="center" valign="top" width="180">
 
-<h2>🤖</h2>
+🤖
+
+<br><br>
 
 <b>AI & ML</b>
 
@@ -97,9 +100,11 @@ DeepFace
 
 </td>
 
-<td align="center" width="20%" valign="top">
+<td align="center" valign="top" width="180">
 
-<h2>✨</h2>
+✨
+
+<br><br>
 
 <b>GenAI</b>
 
@@ -112,9 +117,11 @@ Sentence Transformers
 
 </td>
 
-<td align="center" width="20%" valign="top">
+<td align="center" valign="top" width="180">
 
-<h2>⚙️</h2>
+⚙️
+
+<br><br>
 
 <b>Backend</b>
 
@@ -126,9 +133,11 @@ REST APIs
 
 </td>
 
-<td align="center" width="20%" valign="top">
+<td align="center" valign="top" width="180">
 
-<h2>🎨</h2>
+🎨
+
+<br><br>
 
 <b>Frontend</b>
 
@@ -282,7 +291,7 @@ linkedin.com/in/smriti-singh-567211305
 
 ### 📧 Email
 
-[smritisingh11a@gmail.com](mailto:smritisingh11a@gmail.com)
+(mailto:smritisingh11a@gmail.com)
 
 <br><br>
 
