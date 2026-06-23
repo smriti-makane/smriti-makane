@@ -185,41 +185,53 @@ Cybersecurity monitoring and anomaly detection platform.
 </table>
 
 ---
+## 📊 Activity Dashboard
 
-# 📊 GitHub Statistics
+<table>
+<tr>
 
-<p align="center">
+<td width="60%" valign="top">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 📈 Contribution Graph
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night&hide_border=true&area=true"/>
 
-</p>
+</td>
+
+<td width="40%" valign="top">
+
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+## 📊 GitHub Statistics
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img width="80%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -260,9 +272,7 @@ github.com/smriti-makane
 
 <br><br>
 
-### 📍 Location
 
-India
 
 </td>
 
@@ -277,8 +287,3 @@ India
 
 ---
 
-<h3 align="center">
-
-💜 Code • Build • Learn • Repeat 💜
-
-</h3>
