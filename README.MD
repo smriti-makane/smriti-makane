@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smriti Singh</h1>
+<h1 align="center">Hey!👋, I'm Smriti Singh</h1>
 
 <h3 align="center">
 AI Engineer | Software Developer | Computer Vision Enthusiast
@@ -14,110 +14,109 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 
 <br>
 
-<table align="center">
+<table width="100%">
 <tr>
 
 <td align="center" width="20%">
 
-🧠
+<h2>🧠</h2>
 
-### AI & ML Enthusiast
-
-</td>
-
-<td align="center" width="20%">
-
-🧩
-
-### Problem Solver
+<b>AI & ML<br>Enthusiast</b>
 
 </td>
 
 <td align="center" width="20%">
 
-🚀
+<h2>🧩</h2>
 
-### Fast Learner
-
-</td>
-
-<td align="center" width="20%">
-
-💻
-
-### Clean Code Advocate
+<b>Problem Solver</b>
 
 </td>
 
 <td align="center" width="20%">
 
-🌍
+<h2>🚀</h2>
 
-### Open Source Contributor
+<b>Fast Learner</b>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>💻</h2>
+
+<b>Clean Code<br>Advocate</b>
+
+</td>
+
+<td align="center" width="20%">
+
+<h2>🌍</h2>
+
+<b>Open Source<br>Contributor</b>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 # 🚀 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 
-<td valign="top" width="20%">
+<td width="20%" valign="top" align="center">
 
-### 💻 Languages
+<h3>💻 Languages</h3>
 
-* Python
-* Java
-* JavaScript
-* SQL
-
-</td>
-
-<td valign="top" width="20%">
-
-### 🤖 AI & ML
-
-* TensorFlow
-* OpenCV
-* YOLOv8
-* DeepFace
+Python<br>
+Java<br>
+JavaScript<br>
+SQL
 
 </td>
 
-<td valign="top" width="20%">
+<td width="20%" valign="top" align="center">
 
-### ✨ Generative AI
+<h3>🤖 AI & ML</h3>
 
-* LangChain
-* ChromaDB
-* Ollama
-* Sentence Transformers
-
-</td>
-
-<td valign="top" width="20%">
-
-### ⚙️ Backend
-
-* FastAPI
-* Flask
-* REST APIs
+TensorFlow<br>
+OpenCV<br>
+YOLOv8<br>
+DeepFace
 
 </td>
 
-<td valign="top" width="20%">
+<td width="20%" valign="top" align="center">
 
-### 🎨 Frontend
+<h3>✨ GenAI</h3>
 
-* React
-* Vite
-* HTML
-* CSS
+LangChain<br>
+ChromaDB<br>
+Ollama<br>
+Sentence Transformers
+
+</td>
+
+<td width="20%" valign="top" align="center">
+
+<h3>⚙️ Backend</h3>
+
+FastAPI<br>
+Flask<br>
+REST APIs
+
+</td>
+
+<td width="20%" valign="top" align="center">
+
+<h3>🎨 Frontend</h3>
+
+React<br>
+Vite<br>
+HTML<br>
+CSS
 
 </td>
 
@@ -133,11 +132,11 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 
 <td width="25%" valign="top">
 
-## 🅿️ ParkYourLot
+<h3>🅿️ ParkYourLot</h3>
 
 Smart parking allocation system using YOLOv8, OpenCV, Flask, SQL and React.
 
-<br>
+<br><br><br>
 
 <a href="https://github.com/smriti-makane/ParkingAllocation">
 🔗 View Repository
@@ -147,37 +146,41 @@ Smart parking allocation system using YOLOv8, OpenCV, Flask, SQL and React.
 
 <td width="25%" valign="top">
 
-## 🤖 RAG Chatbot
+<h3>🤖 RAG Chatbot</h3>
 
 Document ingestion, chunking, embeddings, vector search and LLM-powered responses.
 
-<br>
+<br><br>
 
-🔗 Repository
-
-</td>
-
-<td width="25%" valign="top">
-
-## 🧠 Unique Minds Connect
-
-AI-powered learning platform designed for neurodiverse students.
-
-<br>
-
-🔗 Repository
+🚧 Work In Progress
 
 </td>
 
 <td width="25%" valign="top">
 
-## 🛡️ CyberSense
+<h3>🧠 Unique Minds Connect</h3>
 
-Cybersecurity monitoring and anomaly detection platform.
+AI-powered learning platform designed for neurodiverse students using AI and Computer Vision.
 
 <br>
 
-🔗 Repository
+<a href="https://github.com/smriti-makane">
+🔗 View Repository
+</a>
+
+</td>
+
+<td width="25%" valign="top">
+
+<h3>🛡️ CyberSense</h3>
+
+Cybersecurity monitoring and anomaly detection system for threat detection and analysis.
+
+<br>
+
+<a href="https://github.com/smriti-makane">
+🔗 View Repository
+</a>
 
 </td>
 
