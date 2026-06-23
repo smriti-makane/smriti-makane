@@ -181,36 +181,21 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 ## 🌐 Connect With Me
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-singh-567211305/)
-&nbsp; linkedin.com/in/smriti-singh-567211305
-
-<br><br>
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smritisingh11a@gmail.com)
-&nbsp; smritisingh2003a@gmail.com
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smriti-makane)
-&nbsp; github.com/smriti-makane
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%"/>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/smriti-singh-567211305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:smritisingh11a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/smriti-makane">
+    <img src="https://img.shields.io/badge/GitHub-Follow-C792EA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/📍 Location-India-FF6B6B?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
