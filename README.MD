@@ -21,7 +21,7 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 
 <h2>🧠</h2>
 
-<b>AI & ML<br>Enthusiast</b>
+<b>AI & ML Enthusiast</b>
 
 </td>
 
@@ -45,7 +45,7 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 
 <h2>💻</h2>
 
-<b>Clean Code<br>Advocate</b>
+<b>Clean Code Advocate</b>
 
 </td>
 
@@ -53,12 +53,13 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 
 <h2>🌍</h2>
 
-<b>Open Source<br>Contributor</b>
+<b>Open Source Contributor</b>
 
 </td>
 
 </tr>
 </table>
+
 ---
 
 # 🚀 Tech Stack
@@ -66,9 +67,13 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 <table width="100%">
 <tr>
 
-<td width="20%" valign="top" align="center">
+<td align="center" width="20%" valign="top">
 
-<h3>💻 Languages</h3>
+<h2>💻</h2>
+
+<b>Languages</b>
+
+<br><br>
 
 Python<br>
 Java<br>
@@ -77,9 +82,13 @@ SQL
 
 </td>
 
-<td width="20%" valign="top" align="center">
+<td align="center" width="20%" valign="top">
 
-<h3>🤖 AI & ML</h3>
+<h2>🤖</h2>
+
+<b>AI & ML</b>
+
+<br><br>
 
 TensorFlow<br>
 OpenCV<br>
@@ -88,9 +97,13 @@ DeepFace
 
 </td>
 
-<td width="20%" valign="top" align="center">
+<td align="center" width="20%" valign="top">
 
-<h3>✨ GenAI</h3>
+<h2>✨</h2>
+
+<b>GenAI</b>
+
+<br><br>
 
 LangChain<br>
 ChromaDB<br>
@@ -99,9 +112,13 @@ Sentence Transformers
 
 </td>
 
-<td width="20%" valign="top" align="center">
+<td align="center" width="20%" valign="top">
 
-<h3>⚙️ Backend</h3>
+<h2>⚙️</h2>
+
+<b>Backend</b>
+
+<br><br>
 
 FastAPI<br>
 Flask<br>
@@ -109,9 +126,13 @@ REST APIs
 
 </td>
 
-<td width="20%" valign="top" align="center">
+<td align="center" width="20%" valign="top">
 
-<h3>🎨 Frontend</h3>
+<h2>🎨</h2>
+
+<b>Frontend</b>
+
+<br><br>
 
 React<br>
 Vite<br>
@@ -122,8 +143,6 @@ CSS
 
 </tr>
 </table>
-
----
 
 # ⭐ Featured Projects
 
