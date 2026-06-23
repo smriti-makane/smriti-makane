@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm Smriti Singh</h1>
+<h1 align="center">Hi 👋, I'm Smriti Singh</h1>
 
 <h3 align="center">
 AI Engineer | Software Developer | Computer Vision Enthusiast
@@ -12,12 +12,61 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=AI+Engineer;Software+Developer;Computer+Vision+Developer;Generative+AI+Builder;FastAPI+Developer;Problem+Solver" />
 </p>
 
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="20%">
+
+🧠
+
+### AI & ML Enthusiast
+
+</td>
+
+<td align="center" width="20%">
+
+🧩
+
+### Problem Solver
+
+</td>
+
+<td align="center" width="20%">
+
+🚀
+
+### Fast Learner
+
+</td>
+
+<td align="center" width="20%">
+
+💻
+
+### Clean Code Advocate
+
+</td>
+
+<td align="center" width="20%">
+
+🌍
+
+### Open Source Contributor
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <table>
 <tr>
+
 <td valign="top" width="20%">
 
 ### 💻 Languages
@@ -71,6 +120,7 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 * CSS
 
 </td>
+
 </tr>
 </table>
 
@@ -81,35 +131,53 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 <table>
 <tr>
 
-<td width="25%">
+<td width="25%" valign="top">
 
-### 🅿️ ParkYourLot
+## 🅿️ ParkYourLot
 
 Smart parking allocation system using YOLOv8, OpenCV, Flask, SQL and React.
 
+<br>
+
+<a href="https://github.com/smriti-makane/ParkingAllocation">
+🔗 View Repository
+</a>
+
 </td>
 
-<td width="25%">
+<td width="25%" valign="top">
 
-### 🤖 RAG Chatbot
+## 🤖 RAG Chatbot
 
 Document ingestion, chunking, embeddings, vector search and LLM-powered responses.
 
+<br>
+
+🔗 Repository
+
 </td>
 
-<td width="25%">
+<td width="25%" valign="top">
 
-### 🧠 Unique Minds Connect
+## 🧠 Unique Minds Connect
 
 AI-powered learning platform designed for neurodiverse students.
 
+<br>
+
+🔗 Repository
+
 </td>
 
-<td width="25%">
+<td width="25%" valign="top">
 
-### 🛡️ CyberSense
+## 🛡️ CyberSense
 
-Cybersecurity monitoring and anomaly detection system.
+Cybersecurity monitoring and anomaly detection platform.
+
+<br>
+
+🔗 Repository
 
 </td>
 
@@ -121,9 +189,13 @@ Cybersecurity monitoring and anomaly detection system.
 # 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -131,7 +203,10 @@ Cybersecurity monitoring and anomaly detection system.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&theme=tokyonight&hide_border=true" />
+
+<img width="80%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -139,7 +214,9 @@ Cybersecurity monitoring and anomaly detection system.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -147,31 +224,61 @@ Cybersecurity monitoring and anomaly detection system.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=smriti-makane&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=smriti-makane&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<table>
+<tr>
+
+<td width="45%" valign="top">
+
+### 🔗 LinkedIn
 
 <a href="https://www.linkedin.com/in/smriti-singh-567211305/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+linkedin.com/in/smriti-singh-567211305
 </a>
 
-<a href="mailto:smritisingh11a@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<br><br>
+
+### 📧 Email
+
+[smritisingh11a@gmail.com](mailto:smritisingh11a@gmail.com)
+
+<br><br>
+
+### 💻 GitHub
 
 <a href="https://github.com/smriti-makane">
-<img src="https://skillicons.dev/icons?i=github" />
+github.com/smriti-makane
 </a>
 
-</p>
+<br><br>
+
+### 📍 Location
+
+India
+
+</td>
+
+<td width="55%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <h3 align="center">
+
 💜 Code • Build • Learn • Repeat 💜
+
 </h3>
