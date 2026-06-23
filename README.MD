@@ -1,307 +1,170 @@
-<h1 align="center">Hey!👋, I'm Smriti Singh</h1>
+<h1 align="center">Hi 👋, I'm Smriti Singh</h1>
 
 <h3 align="center">
-AI Engineer | Software Developer | Computer Vision Enthusiast
+  <span style="color:#C792EA">AI Engineer</span> | <span style="color:#C792EA">Software Developer</span> | <span style="color:#C792EA">Computer Vision Enthusiast</span>
 </h3>
 
 <p align="center">
-Building intelligent and scalable applications using AI, Computer Vision, Generative AI, FastAPI and Full-Stack Development.
+Building intelligent and scalable applications using AI, Computer Vision,<br>
+Generative AI, FastAPI and Full-Stack Development.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=AI+Engineer;Software+Developer;Computer+Vision+Developer;Generative+AI+Builder;FastAPI+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=AI+Engineer;Software+Developer;Computer+Vision+Developer;Generative+AI+Builder;FastAPI+Developer;Problem+Solver" />
 </p>
 
 <br>
 
-<table width="100%">
-<tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠%20AI%20%26%20ML%20Enthusiast-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/🧩%20Problem%20Solver-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/🚀%20Fast%20Learner-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/💻%20Clean%20Code%20Advocate-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/🌍%20Open%20Source%20Contributor-1a1a2e?style=for-the-badge&color=1a1a2e" />
+</p>
 
-<td align="center" width="20%">
+---
 
-🧠<br>
-
-<sub><b>AI & ML Enthusiast</b></sub>
-
-</td>
-
-<td align="center" width="20%">
-
-🧩<br>
-
-<sub><b>Problem Solver</b></sub>
-
-</td>
-
-<td align="center" width="20%">
-
-🚀<br>
-
-<sub><b>Fast Learner</b></sub>
-
-</td>
-
-<td align="center" width="20%">
-
-💻<br>
-
-<sub><b>Clean Code Advocate</b></sub>
-
-</td>
-
-<td align="center" width="20%">
-
-🌍<br>
-
-<sub><b>Open Source Contributor</b></sub>
-
-</td>
-
-</tr>
-</table>
-
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <table width="100%">
 <tr>
-
-<td align="center" width="20%">
-
-💻
-
-<br>
-
-<b>Languages</b>
-
-<br>
-
-•Python 
-• Java
-• JavaScript 
-• SQL
-
+<td align="center" width="16%">
+💻<br><b>Languages</b><br><br>
+• Python<br>• Java<br>• JavaScript<br>• SQL
 </td>
-
-<td align="center" width="20%">
-
-🤖
-
-<br>
-
-<b>AI & ML</b>
-
-<br>
-
-•TensorFlow 
-• OpenCV 
-• YOLOv8 
-• DeepFace
-
+<td align="center" width="16%">
+🤖<br><b>AI & ML</b><br><br>
+• TensorFlow<br>• OpenCV<br>• YOLOv8<br>• DeepFace
 </td>
-
-<td align="center" width="20%">
-
-✨
-
-<br>
-
-<b>GenAI</b>
-
-<br>
-
-•LangChain 
-• ChromaDB 
-• Ollama 
-• Sentence Transformers
-
+<td align="center" width="16%">
+✨<br><b>Generative AI</b><br><br>
+• LangChain<br>• ChromaDB<br>• Ollama<br>• Sentence Transformers
 </td>
-
-<td align="center" width="20%">
-
-⚙️
-
-<br>
-
-<b>Backend</b>
-
-<br>
-
-•FastAPI 
-• Flask
-• REST APIs
-
+<td align="center" width="16%">
+⚙️<br><b>Backend</b><br><br>
+• FastAPI<br>• Flask<br>• REST APIs
 </td>
-
-<td align="center" width="20%">
-
-🎨
-
-<br>
-
-<b>Frontend</b>
-
-<br>
-
-• React 
-• Vite 
-• HTML
-• CSS
-
+<td align="center" width="16%">
+🎨<br><b>Frontend</b><br><br>
+• React<br>• Vite<br>• HTML<br>• CSS
 </td>
-
+<td align="center" width="16%">
+🛠️<br><b>Tools</b><br><br>
+• Git<br>• GitHub<br>• VS Code<br>• Postman
+</td>
 </tr>
 </table>
 
-# ⭐ Featured Projects
+---
 
-<table>
+## ⭐ Featured Projects
+
+<table width="100%">
 <tr>
 
 <td width="25%" valign="top">
 
-<h3>🅿️ ParkYourLot</h3>
+### 🅿️ ParkYourLot
 
 Smart parking allocation system using YOLOv8, OpenCV, Flask, SQL and React.
 
-<a href="https://github.com/smriti-makane/ParkingAllocation">
-🔗 View Repository
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[🔗 View Repository](https://github.com/smriti-makane/ParkingAllocation)
 
 </td>
 
 <td width="25%" valign="top">
 
-<h3>🤖 RAG Chatbot</h3>
+### 🤖 RAG Chatbot Document Intelligence System
 
 Document ingestion, chunking, embeddings, vector search and LLM-powered responses.
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
-🚧 Work In Progress
-
-</td>
-
-<td width="25%" valign="top">
-
-<h3>🧠 Unique Minds Connect</h3>
-
-AI-powered learning platform designed for neurodiverse students using AI and Computer Vision.
-
-
-<a href="https://github.com/smriti-makane">
-🔗 View Repository
-</a>
+[🔗 View Repository](https://github.com/smriti-makane)
 
 </td>
 
 <td width="25%" valign="top">
 
-<h3>🛡️ CyberSense</h3>
+### 🧠 Unique Minds Connect
 
-Cybersecurity monitoring and anomaly detection system for threat detection and analysis.
+AI-powered learning platform designed for neurodiverse students to enhance accessibility and engagement.
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logoColor=white)
 
-<a href="https://github.com/smriti-makane">
-🔗 View Repository
-</a>
+[🔗 View Repository](https://github.com/smriti-makane)
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🛡️ CyberSense
+
+Cybersecurity monitoring and anomaly detection system for real-time threat identification.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[🔗 View Repository](https://github.com/smriti-makane)
 
 </td>
 
 </tr>
 </table>
-
----
-## 📊 Activity Dashboard
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night&hide_border=true&area=true"/>
-
-</td>
-
-<td width="40%" valign="top">
-
-### 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
-## 📊 GitHub Statistics
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=smriti-makane&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
+  <a href="https://github.com/smriti-makane?tab=repositories">→ View more repositories</a>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="30%" valign="top">
 
-### 🔗 LinkedIn
+### ⭐ Smriti's GitHub Stats
 
-<a href="https://www.linkedin.com/in/smriti-singh-567211305/">
-linkedin.com/in/smriti-singh-567211305
-</a>
-
-<br><br>
-
-### 📧 Email
-
-(mailto:smritisingh11a@gmail.com)
-
-<br><br>
-
-### 💻 GitHub
-
-<a href="https://github.com/smriti-makane">
-github.com/smriti-makane
-</a>
-
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
 </td>
 
-<td width="45%">
+<td width="30%" valign="top">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
+<td width="20%" valign="top">
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
+<td width="20%" valign="top">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=smriti-makane&theme=tokyonight&no-frame=true&column=2&margin-w=5&margin-h=5" width="100%"/>
 
 </td>
 
@@ -310,3 +173,55 @@ github.com/smriti-makane
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-singh-567211305/)
+&nbsp; linkedin.com/in/smriti-singh-567211305
+
+<br><br>
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smritisingh11a@gmail.com)
+&nbsp; smritisingh11a@gmail.com
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smriti-makane)
+&nbsp; github.com/smriti-makane
+
+<br><br>
+
+📍 &nbsp; **Location:** India
+
+<br>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <i><b>❝ Code. Build. Learn. Repeat. ❞</b></i>
+</p>
