@@ -19,48 +19,47 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 
 <td align="center" width="20%">
 
-<h2>🧠</h2>
+🧠<br>
 
-<b>AI & ML Enthusiast</b>
-
-</td>
-
-<td align="center" width="20%">
-
-<h2>🧩</h2>
-
-<b>Problem Solver</b>
+<sub><b>AI & ML Enthusiast</b></sub>
 
 </td>
 
 <td align="center" width="20%">
 
-<h2>🚀</h2>
+🧩<br>
 
-<b>Fast Learner</b>
-
-</td>
-
-<td align="center" width="20%">
-
-<h2>💻</h2>
-
-<b>Clean Code Advocate</b>
+<sub><b>Problem Solver</b></sub>
 
 </td>
 
 <td align="center" width="20%">
 
-<h2>🌍</h2>
+🚀<br>
 
-<b>Open Source Contributor</b>
+<sub><b>Fast Learner</b></sub>
+
+</td>
+
+<td align="center" width="20%">
+
+💻<br>
+
+<sub><b>Clean Code Advocate</b></sub>
+
+</td>
+
+<td align="center" width="20%">
+
+🌍<br>
+
+<sub><b>Open Source Contributor</b></sub>
 
 </td>
 
 </tr>
 </table>
 
----
 # 🚀 Tech Stack
 
 <table width="100%">
@@ -76,7 +75,10 @@ Building intelligent and scalable applications using AI, Computer Vision, Genera
 
 <br>
 
-Python • Java • JavaScript • SQL
+•Python 
+• Java
+• JavaScript 
+• SQL
 
 </td>
 
@@ -90,7 +92,10 @@ Python • Java • JavaScript • SQL
 
 <br>
 
-TensorFlow • OpenCV • YOLOv8 • DeepFace
+•TensorFlow 
+• OpenCV 
+• YOLOv8 
+• DeepFace
 
 </td>
 
@@ -104,7 +109,10 @@ TensorFlow • OpenCV • YOLOv8 • DeepFace
 
 <br>
 
-LangChain • ChromaDB • Ollama • Sentence Transformers
+•LangChain 
+• ChromaDB 
+• Ollama 
+• Sentence Transformers
 
 </td>
 
@@ -118,7 +126,9 @@ LangChain • ChromaDB • Ollama • Sentence Transformers
 
 <br>
 
-FastAPI • Flask • REST APIs
+•FastAPI 
+• Flask
+• REST APIs
 
 </td>
 
@@ -132,7 +142,10 @@ FastAPI • Flask • REST APIs
 
 <br>
 
-React • Vite • HTML • CSS
+• React 
+• Vite 
+• HTML
+• CSS
 
 </td>
 
