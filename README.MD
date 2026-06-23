@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smriti Singh</h1>
 
 <h3 align="center">
-  <span style="color:#C792EA">AI Engineer</span> | <span style="color:#C792EA">Software Developer</span> | <span style="color:#C792EA">Computer Vision Enthusiast</span>
+AI Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Computer Vision Enthusiast
 </h3>
 
 <p align="center">
@@ -9,23 +9,24 @@ Building intelligent and scalable applications using AI, Computer Vision,<br>
 Generative AI, FastAPI and Full-Stack Development.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=AI+Engineer;Software+Developer;Computer+Vision+Developer;Generative+AI+Builder;FastAPI+Developer;Problem+Solver" />
-</p>
-
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠%20AI%20%26%20ML%20Enthusiast-1a1a2e?style=for-the-badge&color=1a1a2e" />
-  <img src="https://img.shields.io/badge/🧩%20Problem%20Solver-1a1a2e?style=for-the-badge&color=1a1a2e" />
-  <img src="https://img.shields.io/badge/🚀%20Fast%20Learner-1a1a2e?style=for-the-badge&color=1a1a2e" />
-  <img src="https://img.shields.io/badge/💻%20Clean%20Code%20Advocate-1a1a2e?style=for-the-badge&color=1a1a2e" />
-  <img src="https://img.shields.io/badge/🌍%20Open%20Source%20Contributor-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/🧠 AI %26 ML Enthusiast-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/🧩 Problem Solver-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/🚀 Fast Learner-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/💻 Clean Code Advocate-1a1a2e?style=for-the-badge&color=1a1a2e" />
+  <img src="https://img.shields.io/badge/🌍 Open Source Contributor-1a1a2e?style=for-the-badge&color=1a1a2e" />
 </p>
 
 ---
 
 ## 🚀 Tech Stack
+
+<table width="100%">
+<tr>
+
+<td align="center" width="55%">
 
 <table width="100%">
 <tr>
@@ -53,6 +54,19 @@ Generative AI, FastAPI and Full-Stack Development.
 🛠️<br><b>Tools</b><br><br>
 • Git<br>• GitHub<br>• VS Code<br>• Postman
 </td>
+</tr>
+</table>
+
+</td>
+
+<td align="center" width="45%">
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=donut&theme=tokyonight&hide_border=true" width="90%"/>
+
+</td>
+
 </tr>
 </table>
 
@@ -136,7 +150,7 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 <table width="100%">
 <tr>
 
-<td width="30%" valign="top">
+<td width="34%" valign="top">
 
 ### ⭐ Smriti's GitHub Stats
 
@@ -144,7 +158,7 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 </td>
 
-<td width="30%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔥 GitHub Streak
 
@@ -152,32 +166,16 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 </td>
 
-<td width="20%" valign="top">
+<td width="33%" valign="top">
 
-### 💻 Top Languages
+### 📈 Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-
-<td width="20%" valign="top">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=smriti-makane&theme=tokyonight&no-frame=true&column=2&margin-w=5&margin-h=5" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
 
 ---
 
