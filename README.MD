@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Smriti Singh</h1>
+<h1>Hey!, I'm Smriti Singh</h1>
 
 <h3>
 <span>AI Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Computer Vision Enthusiast</span>
@@ -102,11 +102,10 @@ Generative AI, FastAPI and Full-Stack Development.
 
 <img src="https://img.shields.io/badge/🅿️ ParkYourLot-C792EA?style=flat-square&logoColor=white" />
 
-<br><br>
 
 <sub>Smart parking allocation system using YOLOv8, OpenCV, Flask, SQL and React.</sub>
 
-<br><br>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -122,11 +121,10 @@ Generative AI, FastAPI and Full-Stack Development.
 
 <img src="https://img.shields.io/badge/🤖 RAG Chatbot-89DDFF?style=flat-square&logoColor=white" />
 
-<br><br>
+
 
 <sub>Document ingestion, chunking, embeddings, vector search and LLM-powered responses.</sub>
 
-<br><br>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
@@ -141,11 +139,9 @@ Generative AI, FastAPI and Full-Stack Development.
 
 <img src="https://img.shields.io/badge/🧠 Unique Minds Connect-C3E88D?style=flat-square&logoColor=white" />
 
-<br><br>
 
 <sub>AI-powered learning platform designed for neurodiverse students to enhance accessibility and engagement.</sub>
 
-<br><br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -159,11 +155,9 @@ Generative AI, FastAPI and Full-Stack Development.
 
 <img src="https://img.shields.io/badge/🛡️ CyberSense-FF5370?style=flat-square&logoColor=white" />
 
-<br><br>
 
 <sub>Cybersecurity monitoring and anomaly detection system for real-time threat identification.</sub>
 
-<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logoColor=white)
