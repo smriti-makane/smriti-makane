@@ -1,19 +1,20 @@
 <div align="center">
 
-<!-- TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋%2C+I'm+Smriti+Singh" alt="Hi, I'm Smriti Singh" />
+<h1>Hi 👋, I'm Smriti Singh</h1>
 
-<!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=C792EA&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%7C+Software+Developer+%7C+Computer+Vision+Enthusiast" alt="Roles" />
+<h3>
+<span>AI Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Computer Vision Enthusiast</span>
+</h3>
 
-<!-- DESC -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=99999&color=89DDFF&center=true&vCenter=true&width=750&height=40&lines=Building+intelligent+and+scalable+applications+using+AI%2C+Computer+Vision%2C+Generative+AI%2C+FastAPI+and+Full-Stack+Development." alt="Description" />
+<p>
+Building intelligent and scalable applications using AI, Computer Vision,<br>
+Generative AI, FastAPI and Full-Stack Development.
+</p>
 
 </div>
 
 <br>
 
-<!-- TRAIT BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/🧠 AI %26 ML Enthusiast-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=C792EA" />
   <img src="https://img.shields.io/badge/🧩 Problem Solver-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=89DDFF" />
@@ -24,8 +25,7 @@
 
 ---
 
-<!-- SECTION HEADING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=99999&color=C792EA&center=false&vCenter=true&width=300&height=45&lines=🚀+Tech+Stack" alt="Tech Stack" />
+## 🚀 Tech Stack
 
 <table width="100%">
 <tr>
@@ -82,7 +82,7 @@
 
 <td align="center" width="45%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=99999&color=89DDFF&center=true&vCenter=true&width=250&height=35&lines=💻+Top+Languages" alt="Top Languages" />
+**💻 Top Languages**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=donut&theme=tokyonight&hide_border=true" width="90%"/>
 
@@ -93,8 +93,7 @@
 
 ---
 
-<!-- SECTION HEADING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=99999&color=FFCB6B&center=false&vCenter=true&width=350&height=45&lines=⭐+Featured+Projects" alt="Featured Projects" />
+## ⭐ Featured Projects
 
 <table width="100%">
 <tr>
@@ -185,8 +184,7 @@
 
 ---
 
-<!-- SECTION HEADING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=99999&color=C3E88D&center=false&vCenter=true&width=300&height=45&lines=📊+GitHub+Stats" alt="GitHub Stats" />
+## 📊 GitHub Stats
 
 <table width="100%">
 <tr>
@@ -208,8 +206,7 @@
 
 ---
 
-<!-- SECTION HEADING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=99999&color=89DDFF&center=false&vCenter=true&width=320&height=45&lines=🌐+Connect+With+Me" alt="Connect With Me" />
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smriti-singh-567211305/">
@@ -230,5 +227,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=FFCB6B&center=true&vCenter=true&width=500&height=40&lines=❝+Code.+Build.+Learn.+Repeat.+❞" alt="Quote" />
+  <b>❝ Code. Build. Learn. Repeat. ❞</b>
 </p>
