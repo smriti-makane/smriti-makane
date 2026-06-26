@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey!, I'm Smriti Singh</h1>
+<h1>Hey!, I'm Smriti Singh</h1> 
 
 <h3>
 <span>AI Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Computer Vision Enthusiast</span>
