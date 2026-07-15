@@ -206,9 +206,9 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 <td width="50%" valign="top">
 •
 .
-**📜 Certifications**
+📜 Certifications
 
-**🎓 Education**
+
 - *[Cisco Cybersecurity Fundamentals & Network Security]*
 - *[Cisco Python Essential-1]*
 
