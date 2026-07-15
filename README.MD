@@ -180,20 +180,12 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-<tr>
 
-<td width="25%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F5F5DC&icon_color=cccccc&text_color=cccccc&border_color=2b2b2b" width="100%"/>
-</td>
 
 <td width="25%" valign="top">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&hide_border=true&background=0d1117&ring=FFB800&fire=F5F5DC&currStreakLabel=F5F5DC&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&border=2b2b2b" width="100%"/>
 </td>
 
-<td width="25%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=donut&hide_border=true&bg_color=0d1117&title_color=F5F5DC&text_color=cccccc&border_color=2b2b2b" width="100%"/>
-</td>
 
 <td width="25%" valign="top">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&hide_border=true&area=true&bg_color=0d1117&color=cccccc&line=F5F5DC&point=ffffff" width="100%"/>
@@ -219,8 +211,9 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 •
 .
 **📜 Certifications**
-- *[Cisco Cybersecurity Fundamentals Network Security] 
-- *[Cisco Python Essentials 1]
+- [Cisco Cybersecurity Fundamentals Network Security] 
+
+- [Cisco Python Essentials 1]
 
 </td>
 </tr>
