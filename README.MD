@@ -200,12 +200,12 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 **🎓 Education**
 - *[B.Tech] — [GL Bajaj Institute of Technology & Management]*
-- *[Graduation Year:- 2026]*
+- *[Graduation Year- 2026]*
 
 </td>
 <td width="50%" valign="top">
-•
-.
+
+
 📜 Certifications
 
 
