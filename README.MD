@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2b2b&height=200&section=header&text=Smriti%20Singh&fontSize=48&fontColor=FFB800&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=18&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2b2b&height=200&section=header&text=Smriti%20Singh&fontSize=48&fontColor=F5F5DC&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=18&descColor=cccccc" width="100%"/>
 
 </div>
 
@@ -16,7 +16,7 @@ I'm an **AI Engineer and Software Developer** building intelligent, production-r
 - ⚡ Fun fact: I'd rather debug a broken pipeline at midnight than leave it for tomorrow
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/📄 Download Resume-2b2b2b?style=for-the-badge&logoColor=FFB800" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/📄 Download Resume-2b2b2b?style=for-the-badge&logoColor=F5F5DC" /></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ I'm an **AI Engineer and Software Developer** building intelligent, production-r
 
 **💻 Languages**
 <br><br>
-<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=FFB800" /><br>
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=F5F5DC" /><br>
 <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=cccccc" /><br>
 <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=cccccc" /><br>
 <img src="https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=mysql&logoColor=cccccc" />
@@ -43,7 +43,7 @@ I'm an **AI Engineer and Software Developer** building intelligent, production-r
 <br><br>
 <img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow&logoColor=cccccc" /><br>
 <img src="https://img.shields.io/badge/OpenCV-2b2b2b?style=flat-square&logo=opencv&logoColor=cccccc" /><br>
-<img src="https://img.shields.io/badge/YOLOv8-2b2b2b?style=flat-square&logoColor=FFB800" /><br>
+<img src="https://img.shields.io/badge/YOLOv8-2b2b2b?style=flat-square&logoColor=F5F5DC" /><br>
 <img src="https://img.shields.io/badge/DeepFace-2b2b2b?style=flat-square&logoColor=cccccc" />
 
 </td>
@@ -55,7 +55,7 @@ I'm an **AI Engineer and Software Developer** building intelligent, production-r
 <img src="https://img.shields.io/badge/LangChain-2b2b2b?style=flat-square&logoColor=cccccc" /><br>
 <img src="https://img.shields.io/badge/ChromaDB-2b2b2b?style=flat-square&logoColor=cccccc" /><br>
 <img src="https://img.shields.io/badge/Ollama-2b2b2b?style=flat-square&logoColor=cccccc" /><br>
-<img src="https://img.shields.io/badge/Sentence Transformers-2b2b2b?style=flat-square&logoColor=FFB800" />
+<img src="https://img.shields.io/badge/Sentence Transformers-2b2b2b?style=flat-square&logoColor=F5F5DC" />
 
 </td>
 
@@ -65,7 +65,7 @@ I'm an **AI Engineer and Software Developer** building intelligent, production-r
 <br><br>
 <img src="https://img.shields.io/badge/FastAPI-2b2b2b?style=flat-square&logo=fastapi&logoColor=cccccc" /><br>
 <img src="https://img.shields.io/badge/Flask-2b2b2b?style=flat-square&logo=flask&logoColor=cccccc" /><br>
-<img src="https://img.shields.io/badge/REST APIs-2b2b2b?style=flat-square&logoColor=FFB800" />
+<img src="https://img.shields.io/badge/REST APIs-2b2b2b?style=flat-square&logoColor=F5F5DC" />
 
 </td>
 
@@ -172,7 +172,7 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 <p align="center">
   <a href="https://github.com/smriti-makane?tab=repositories">
-    <img src="https://img.shields.io/badge/→ View all repositories-2b2b2b?style=for-the-badge&logoColor=FFB800" />
+    <img src="https://img.shields.io/badge/→ View all repositories-2b2b2b?style=for-the-badge&logoColor=F5F5DC" />
   </a>
 </p>
 
@@ -184,19 +184,19 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 <tr>
 
 <td width="25%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFB800&icon_color=cccccc&text_color=cccccc&border_color=2b2b2b" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F5F5DC&icon_color=cccccc&text_color=cccccc&border_color=2b2b2b" width="100%"/>
 </td>
 
 <td width="25%" valign="top">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&hide_border=true&background=0d1117&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&border=2b2b2b" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&hide_border=true&background=0d1117&ring=FFB800&fire=F5F5DC&currStreakLabel=F5F5DC&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&border=2b2b2b" width="100%"/>
 </td>
 
 <td width="25%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=donut&hide_border=true&bg_color=0d1117&title_color=FFB800&text_color=cccccc&border_color=2b2b2b" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-makane&layout=donut&hide_border=true&bg_color=0d1117&title_color=F5F5DC&text_color=cccccc&border_color=2b2b2b" width="100%"/>
 </td>
 
 <td width="25%" valign="top">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&hide_border=true&area=true&bg_color=0d1117&color=cccccc&line=FFB800&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&hide_border=true&area=true&bg_color=0d1117&color=cccccc&line=F5F5DC&point=ffffff" width="100%"/>
 </td>
 
 </tr>
@@ -211,15 +211,16 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 <td width="50%" valign="top">
 
 **🎓 Education**
-- *[Degree] — [University Name]*
-- *[Graduation Year]*
+- *[B.Tech] — [GL Bajaj Institute of Technology & Management]*
+- *[Graduation Year:- 2026]*
 
 </td>
 <td width="50%" valign="top">
-
+•
+.
 **📜 Certifications**
-- *[Certification Name] — [Issuer]*
-- *[Certification Name] — [Issuer]*
+- *[Cisco Cybersecurity Fundamentals Network Security] 
+- *[Cisco Python Essentials 1]
 
 </td>
 </tr>
@@ -231,15 +232,15 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smriti-singh-567211305/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=FFB800" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=F5F5DC" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:smritisingh11a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FFB800" />
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-2b2b2b?style=for-the-badge&logo=gmail&logoColor=F5F5DC" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/smriti-makane">
-    <img src="https://img.shields.io/badge/GitHub-Follow-2b2b2b?style=for-the-badge&logo=github&logoColor=FFB800" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-2b2b2b?style=for-the-badge&logo=github&logoColor=F5F5DC" />
   </a>
 </p>
 
