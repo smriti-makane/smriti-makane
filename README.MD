@@ -178,7 +178,6 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -208,9 +207,10 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 •
 .
 **📜 Certifications**
-- [Cisco Cybersecurity Fundamentals Network Security] 
 
-- [Cisco Python Essentials 1]
+**🎓 Education**
+- *[Cisco Cybersecurity Fundamentals & Network Security]*
+- *[Cisco Python Essential-1]*
 
 </td>
 </tr>
