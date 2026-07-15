@@ -180,23 +180,16 @@ Cybersecurity monitoring and anomaly detection system for real-time threat ident
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=smriti-makane&hide_border=true&background=0d1117&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&border=2b2b2b"
-        width="420"
-      />
-    </td>
+## 📊 GitHub Stats
 
-    <td align="center">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&hide_border=true&area=true&bg_color=0d1117&color=cccccc&line=FFB800&point=ffffff"
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=smriti-makane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFB800&icon_color=FFB800&text_color=cccccc" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=smriti-makane&hide_border=true&background=0d1117&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smriti-makane&hide_border=true&bg_color=0d1117&color=cccccc&line=FFB800&point=ffffff&area=true" />
+</p>
 
 ---
 
